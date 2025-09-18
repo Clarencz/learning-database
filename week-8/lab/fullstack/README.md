@@ -34,7 +34,7 @@ CREATE TABLE images (
 ### 4️⃣ Go to the Project Folder
 
 ```bash
-cd lab-7
+cd week-8/lab
 ```
 
 ### 5️⃣ Install Dependencies
@@ -43,15 +43,16 @@ cd lab-7
 npm install
 ```
 
-### 6️⃣ Start the Server
+### 6️⃣ Start the Server Nodejs
 
 ```bash
 npm start 
 ```
-### 7️⃣ Start the Frontend (in a new terminal)
+### 7️⃣ Start the Frontend (in a new terminal) 
 ```bash
 cd client
 npm run dev
 ```
 ---
+
 
