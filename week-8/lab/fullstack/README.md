@@ -30,11 +30,6 @@ CREATE TABLE images (
 );
 ```
 
-### 3️⃣ Clone the Project
-
-```bash
-git clone https://github.com/PLP-Database-DEPT/gallery.git
-```
 
 ### 4️⃣ Go to the Project Folder
 
@@ -59,3 +54,4 @@ cd client
 npm run dev
 ```
 ---
+
